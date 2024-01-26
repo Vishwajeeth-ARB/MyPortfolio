@@ -13,20 +13,20 @@ body{
     height: 100%;
 }
 .fa-envelope-square{
-    color: chartreuse;
+    color: rgb(255, 255, 255);
    
 }
 .fa-twitter-square{
-    color: chartreuse;
+    color: rgb(255, 255, 255);
       
 }
 .fa-github-square{
-    color: chartreuse;
+    color: rgb(255, 255, 255);
    
 }
 
 .fa-linkedin-in{
-  color: chartreuse;
+  color: rgb(255, 255, 255);
  
 }
 .fa-facebook-square{
@@ -63,7 +63,7 @@ opacity: 0.8;
 }
 
 .work{
-    background-color: #6c7a82;
+    background-color:  rgb(85, 165, 250);
 }
 
 .candidate-list-box{
@@ -174,8 +174,8 @@ body {
 
     width: 300px;
 
-    height: 200px;
-
+    height: 230px;
+    
     transition: 0.5s;
 
 }
